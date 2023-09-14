@@ -1,0 +1,21 @@
+body{
+	background-color:#72bcd4;
+}
+h1{
+	text-align:center;
+	color:#00008b;
+}
+form{
+	padding-left:15%;
+	padding-top:35px;
+	padding-bottom:30px;
+	background-color:#add8e6;
+	margin-left:25%;
+	margin-right:20%;
+	font-size:25px;
+}
+button{
+	background-color:#1e90ff
+	color:white;
+}
+	
